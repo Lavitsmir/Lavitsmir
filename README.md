@@ -1,4 +1,5 @@
-### <p style="text-align:center;">Oioi👋</p>
+### <h1 text align='center'>Oioi 👋</h1>
+
 
 <!--
 **Lavitsmir/Lavitsmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
