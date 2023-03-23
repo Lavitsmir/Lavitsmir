@@ -1,4 +1,4 @@
-### Oioi 👋
+### <p style="text-align:center;">Oioi👋</p>
 
 <!--
 **Lavitsmir/Lavitsmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
