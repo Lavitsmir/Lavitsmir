@@ -13,6 +13,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   </div>
+  <div>
+    <h2> Sobre mim: </h2>
+    <p> 
+      <div text align= 'center'> Faço Ciência da Computação na PUCPR </div>
+      <div text align= 'center'> Minha namorada é a @Strelizya <div>
+      <div text align= 'center'> Não gosto de sempre fazer a mesma coisa e quero aprender assuntos novos! <div>
+    </p>
+  </div>
   
 <div>
   <h2 text align 'center'>Formas de contato: </h2>
