@@ -16,9 +16,7 @@
   <div>
     <h2> Sobre mim: </h2>
     <p> 
-      <div text align= 'center'> Faço Ciência da Computação na PUCPR </div>
-      <div text align= 'center'> Minha namorada é a @Strelizya <div>
-      <div text align= 'center'> Não gosto de sempre fazer a mesma coisa e quero aprender assuntos novos! <div>
+      <div text align= 'center'> Estou terminando Ciência da Computação na PUCPR </div>
     </p>
   </div>
   
